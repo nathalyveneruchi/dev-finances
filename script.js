@@ -70,31 +70,6 @@ const Transaction = {
     }
 }
 
-// const transactions = [    
-//     {
-//         description: 'Luz',
-//         amount: -50001,
-//         date: '23/01/2021',
-//     },
-//     {
-//         description: 'Website',
-//         amount: 500000,
-//         date: '23/01/2021',
-//     },
-//     {
-//         description: 'Internet',
-//         amount: -20012,
-//         date: '23/01/2021',
-//     },
-//     {
-//         description: 'App',
-//         amount: 200000,
-//         date: '23/01/2021',
-//     },
-// ]
-
-
-
 const DOM = {
     transactionsContainer: document.querySelector('#data-table tbody'),
 
